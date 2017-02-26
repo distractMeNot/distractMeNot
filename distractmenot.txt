@@ -2,6 +2,7 @@ abc.net.au##.localised-top-stories
 bbc.com##.column--secondary
 facebook.com##.RightCol
 faz.net###FAZContentRight
+hotelbb.de##.notification.alert-box
 huffingtonpost.fr###carousel
 newyorker.com##.most-popular
 nrk.no##.lp_related
