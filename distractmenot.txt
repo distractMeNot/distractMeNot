@@ -1,3 +1,6 @@
+! notification dots
+github.com##.unread.mail-status
+
 abc.net.au##.localised-top-stories
 bbc.com##.column--secondary
 facebook.com##.RightCol
@@ -15,9 +18,13 @@ spiegel.de##.asset-tab-box
 ###hot-network-questions
 
 theguardian.com##.right-most-popular
+twitter.com###above-timeline-prompt
+twitter.com###dashboard-profile-promptx
 twitter.com##.activity-supplement-facepile
+twitter.com##.BannersContainer
 twitter.com##.PromptbirdPrompt-streamItem
 twitter.com##.RelatedUsers
+twitter.com##.suggested-tweet-stream
 twitter.com##.trends
 twitter.com##.WhoToFollow
 twitter.com##.wtf-module
